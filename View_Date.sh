@@ -1,4 +1,9 @@
 #!/bin/bash
 #@author Gitau Muguro
-#command to view date. (current date is the one highlighted _as per yours PC's date)
+#command to view calenda of current month with current date highlighted
+
 cal
+
+#including opions to the cal command will show more details.
+# cal -y (show complete current year with current date highlighted)
+#cal 12 2023 (show calenda of selected month and year.)
