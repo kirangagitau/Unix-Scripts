@@ -9,3 +9,5 @@ init 0
 
 init 6
 #Reboots the system by shutting it down completely and then restarting it
+:'The above various shutdown commands are used as 
+per the desired effect on the computer that is being shutdown'
