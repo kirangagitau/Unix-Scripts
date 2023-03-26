@@ -5,3 +5,4 @@
  
  nmcli device wifi show-password 
  
+#cool and nice
