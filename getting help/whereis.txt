@@ -1,1 +1,7 @@
+To search for the location of a command or the man pages for a command, use the whereis command. This command searches for commands,
+source files and man pages in specific locations where these files are typically stored.
+Man pages are easily distinguished from commands as they are typically compressed with a program called gzip, resulting in a filename that ends in .gz
 
+EXAMPLE:
+
+    $: whereis ls
