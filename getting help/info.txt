@@ -1,0 +1,6 @@
+The info command provides documentation on operating system commands and features. 
+The goal is slightly different from man pages: to provide a documentation resource that gives a logical organizational structure,
+making reading documentation easier.
+
+EXAMPLE
+      sysadmin@localhost:~$ info ls 
