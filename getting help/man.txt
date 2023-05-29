@@ -1,1 +1,6 @@
+The developers of UNIX created help documents called man pages (short for manual pages).
+Man pages are used to describe the features of commands. They provide a basic description of the purpose of the command, 
+as well as details regarding available options.
 
+EXAMPLE:
+     $ man ls 
