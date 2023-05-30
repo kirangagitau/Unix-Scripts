@@ -1,1 +1,6 @@
 
+The whatis command (or man -f) returns what section a man page is stored in
+
+$ whatis ls
+  or
+ $ man -f ls
