@@ -6,3 +6,9 @@ EXAMPLE:
      $ man ls 
 
 To search a man page for a term, type the / character followed by a search term, then hit the Enter key.
+Sometimes you want to know what section of the 9 man page sections is a your most approporiate to refer to for the command 
+help. this is done by using the '-k' option with the man command.
+
+EXMAPLE:
+	$ man -k ls
+
