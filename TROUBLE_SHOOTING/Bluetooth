@@ -1,0 +1,13 @@
+command to restart bluetooth services (must be run as sudo)
+	'systemctl restart bluetooth'
+	'service bluetooth restart'
+
+Other times one is required to uninstall the bluetooth drivers and then intsall them again
+this is achieved through
+	 'sudo apt-get purge blueman bluez-utils bluez bluetooth' - to uninstall
+After unistalling the drivers, then next thing to do is update
+	'sudo apt-get update'
+Once done with updating now install the drivers....
+	 'sudo apt-get install blueman bluez-utils bluez bluetooth' - to install
+Finally restart the bluetooth to appl changes or alternatively reboot the computer.
+	'reboot'
